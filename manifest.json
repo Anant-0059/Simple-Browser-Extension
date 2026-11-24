@@ -1,6 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Hello",
+  "name": "Simple Popup",
   "version": "1.0",
-  "action": {}
+  "action": {
+    "default_popup": "popup.html"
+  }
 }
